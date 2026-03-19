@@ -6,5 +6,69 @@ Florencia Rios legajo 1214573
 Rocio Miñones legajo  1215772
 Fiamma Palgia, legajo 1213802
 Luciano Rossi legajo 1191790
-Santiago Castro legajo 1494154
+Santiago Flotta Castro legajo 1494154
 Presentación:
+# 🚀 Equipo ProgramCamión
+
+¡Hola! Somos **Santiago Castro, Luciano Rossi, Florencia Ríos, Dolores Ortiz, Fiamma Palgia y Rocío Miñones**, un equipo apasionado por la programación y la tecnología.  
+Trabajamos juntos para **crear proyectos innovadores, aprender y divertirnos mientras codificamos**.  
+
+---
+
+## 💡 Nuestro Lema
+
+> “**Solucionamos Lógica, Funciones Debuggeadas Funcionan Rápido**”  
+> Nuestro mantra para codificar con eficiencia y diversión. 🚀💻
+
+---
+
+## 👥 Miembros del Equipo
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
+  <img src="images/santiago.jpg" width="120" style="border-radius:50%;"/>
+  <h3>Santiago Castro</h3>
+  <p><strong>Legajo:</strong> 1494154</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
+  <img src="images/luciano.jpg" width="120" style="border-radius:50%;"/>
+  <h3>Luciano Rossi</h3>
+  <p><strong>Legajo:</strong> [completar]</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
+  <img src="images/florencia.jpg" width="120" style="border-radius:50%;"/>
+  <h3>Florencia Ríos</h3>
+  <p><strong>Legajo:</strong> 1214573</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
+  <img src="images/dolores.jpg" width="120" style="border-radius:50%;"/>
+  <h3>Dolores Ortiz</h3>
+  <p><strong>Legajo:</strong> 1215275</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
+  <img src="images/fiamma.jpg" width="120" style="border-radius:50%;"/>
+  <h3>Fiamma Palgia</h3>
+  <p><strong>Legajo:</strong> 1213802</p>
+</div>
+
+<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
+  <img src="images/rocio.jpg" width="120" style="border-radius:50%;"/>
+  <h3>Rocío Miñones</h3>
+  <p><strong>Legajo:</strong> 1215772</p>
+</div>
+
+</div>
+
+
+---
+
+### 📸 Tips de Fotos
+
+- Guarda las fotos en una carpeta dentro del repo, por ejemplo: `images/`.  
+- Reemplaza las rutas en `<img src="images/nombre.jpg"/>`.  
+- Puedes cambiar el tamaño ajustando `width="120"`.
