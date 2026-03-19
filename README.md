@@ -8,7 +8,7 @@ Programación II. Jueves turno tarde.
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
   <img src="images/santiago.jpg" width="120" style="border-radius:50%;"/>
-  <h3>Santiago Castro</h3>
+  <h3>Santiago Flotta Castro</h3>
   <p><strong>Legajo:</strong> 1494154</p>
 </div>
 
