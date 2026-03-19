@@ -31,7 +31,7 @@ Programación II. Jueves turno tarde.
 </div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/fiamma.jpg" width="120" style="border-radius:50%;"/>
+  <img src="images/fiammafoto.jpg" width="120" style="border-radius:50%;"/>
   <h3>Fiamma Palgia</h3>
   <p><strong>Legajo:</strong> 1213802</p>
 </div>
