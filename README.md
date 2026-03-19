@@ -1,4 +1,10 @@
 # D.S.F.L.R.F.-TEAM
 Programación II. Jueves turno tarde.
-Integrantes: Dolores Ortiz, Florencia Rios, Rocio Miñones, Fiamma Palgia, Luciano Rossi, Santiago Castro.
+Integrantes:
+Dolores Ortiz legajo 1215275
+Florencia Rios legajo 1214573
+Rocio Miñones legajo
+Fiamma Palgia, legajo 1213802
+Luciano Rossi legajo 
+Santiago Castro legajo 1494154
 Presentación:
