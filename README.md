@@ -7,7 +7,7 @@ Programación II. Jueves turno tarde.
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/santiago.jpg" width="120" style="border-radius:50%;"/>
+  <img src="images/santifoto.jpg" width="120" style="border-radius:50%;"/>
   <h3>Santiago Flotta Castro</h3>
   <p><strong>Legajo:</strong> 1494154</p>
 </div>
@@ -19,7 +19,7 @@ Programación II. Jueves turno tarde.
 </div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/florencia.jpg" width="120" style="border-radius:50%;"/>
+  <img src="images/florfoto.jpg" width="120" style="border-radius:50%;"/>
   <h3>Florencia Ríos</h3>
   <p><strong>Legajo:</strong> 1214573</p>
 </div>
