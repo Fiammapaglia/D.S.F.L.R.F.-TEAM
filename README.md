@@ -8,19 +8,7 @@ Fiamma Palgia, legajo 1213802
 Luciano Rossi legajo 1191790
 Santiago Flotta Castro legajo 1494154
 Presentación:
-# 🚀 Equipo ProgramCamión
 
-¡Hola! Somos **Santiago Castro, Luciano Rossi, Florencia Ríos, Dolores Ortiz, Fiamma Palgia y Rocío Miñones**, un equipo apasionado por la programación y la tecnología.  
-Trabajamos juntos para **crear proyectos innovadores, aprender y divertirnos mientras codificamos**.  
-
----
-
-## 💡 Nuestro Lema
-
-> “**Solucionamos Lógica, Funciones Debuggeadas Funcionan Rápido**”  
-> Nuestro mantra para codificar con eficiencia y diversión. 🚀💻
-
----
 
 ## 👥 Miembros del Equipo
 
@@ -35,7 +23,7 @@ Trabajamos juntos para **crear proyectos innovadores, aprender y divertirnos mie
 <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
   <img src="images/luciano.jpg" width="120" style="border-radius:50%;"/>
   <h3>Luciano Rossi</h3>
-  <p><strong>Legajo:</strong> [completar]</p>
+  <p><strong>Legajo:</strong> 1191790</p>
 </div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
