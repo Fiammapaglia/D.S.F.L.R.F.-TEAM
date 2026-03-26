@@ -25,7 +25,7 @@ Programación II. Jueves turno tarde.
 </div>
 
 <div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/dolores.jpg" width="120" style="border-radius:50%;"/>
+  <img src="images/doloresfoto.jpeg" width="120" style="border-radius:50%;"/>
   <h3>Dolores Ortiz</h3>
   <p><strong>Legajo:</strong> 1215275</p>
 </div>
