@@ -1,46 +1,58 @@
-# Las pilas
-Programación II. Jueves turno tarde.
+# 💻 Las Pilas
 
+> **Programación II** · Jueves turno tarde · 2026
 
-## 👥 Miembros del Equipo
+---
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+## 👥 Equipo
 
-<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/santifoto.jpg" width="120" style="border-radius:50%;"/>
-  <h3>Santiago Flotta Castro</h3>
-  <p><strong>Legajo:</strong> 1494154</p>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="images/santifoto.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
+      <b>Santiago Flotta Castro</b><br/>
+      <sub>Legajo: 1494154</sub>
+    </td>
+    <td align="center">
+      <img src="images/lucianofoto.jpeg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
+      <b>Luciano Rossi</b><br/>
+      <sub>Legajo: 1191790</sub>
+    </td>
+    <td align="center">
+      <img src="images/florfoto.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
+      <b>Florencia Ríos</b><br/>
+      <sub>Legajo: 1214573</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/doloresfoto.jpeg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
+      <b>Dolores Ortiz</b><br/>
+      <sub>Legajo: 1215275</sub>
+    </td>
+    <td align="center">
+      <img src="images/fiammafoto.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
+      <b>Fiamma Palgia</b><br/>
+      <sub>Legajo: 1213802</sub>
+    </td>
+    <td align="center">
+      <img src="images/rociofoto.jpeg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
+      <b>Rocío Miñones</b><br/>
+      <sub>Legajo: 1215772</sub>
+    </td>
+  </tr>
+</table>
 
-<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/lucianofoto.jpeg" width="120" style="border-radius:50%;"/>
-  <h3>Luciano Rossi</h3>
-  <p><strong>Legajo:</strong> 1191790</p>
-</div>
+---
 
-<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/florfoto.jpg" width="120" style="border-radius:50%;"/>
-  <h3>Florencia Ríos</h3>
-  <p><strong>Legajo:</strong> 1214573</p>
-</div>
+## 📚 Sobre el repositorio
 
-<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/doloresfoto.jpeg" width="120" style="border-radius:50%;"/>
-  <h3>Dolores Ortiz</h3>
-  <p><strong>Legajo:</strong> 1215275</p>
-</div>
+Este repositorio contiene los trabajos prácticos y ejercicios de la materia **Programación II**
 
-<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/fiammafoto.jpg" width="120" style="border-radius:50%;"/>
-  <h3>Fiamma Palgia</h3>
-  <p><strong>Legajo:</strong> 1213802</p>
-</div>
+---
 
-<div style="border:1px solid #ccc; border-radius:10px; padding:10px; width:220px; margin:10px; text-align:center;">
-  <img src="images/rociofoto.jpeg" width="120" style="border-radius:50%;"/>
-  <h3>Rocío Miñones</h3>
-  <p><strong>Legajo:</strong> 1215772</p>
-</div>
+## 🛠️ Tecnologías
 
-</div>
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
