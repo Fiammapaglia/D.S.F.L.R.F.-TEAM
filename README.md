@@ -27,12 +27,12 @@
   <tr>
     <td align="center">
       <img src="images/fiammafoto.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
-      <b>Fiamma Palgia</b><br/>
+      <b>Fiamma Paglia</b><br/>
       <sub>Legajo: 1213802</sub>
     </td>
     <td align="center">
       <img src="images/florfoto.jpg" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br/>
-      <b>Florencia Ríos</b><br/>
+      <b>Florencia Rios</b><br/>
       <sub>Legajo: 1214573</sub>
     </td>
     <td align="center">
@@ -47,7 +47,7 @@
 
 ## 📚 Sobre el repositorio
 
-Este repositorio contiene los trabajos prácticos y ejercicios de la materia **Programación II**, cursada en 2026.
+Este repositorio contiene los trabajos prácticos y ejercicios de la materia **Programación II**
 
 ---
 
