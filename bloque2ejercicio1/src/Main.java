@@ -5,5 +5,8 @@ public class Main {
         Estrategia_1 pila = new Estrategia_1();
 
         pila.InicializarPila();
+        pila.apilar("fi.uba.ar");
+        pila.apilar("campus.utn.edu.ar");
+        pila.apilar("stackoverflow.com");
     }
 }

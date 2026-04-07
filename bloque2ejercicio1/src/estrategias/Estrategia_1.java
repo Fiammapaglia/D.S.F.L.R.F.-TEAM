@@ -9,15 +9,12 @@ public class Estrategia_1 implements pilaTDA {
     @Override
     public void InicializarPila() {
         datos = new String[MAX];
-        datos[0] = "fi.uba.ar";
-        datos[1] = "campus.utn.edu.ar";
-        datos[2] = "stackoverflow.com";
 
         cantidad = 0;
     }
 
     @Override
-    public void aplicar(String x) {  //
+    public void apilar(String x) {  //
         if (cantidad < MAX) {
             datos[cantidad] = x; // apila las paginas
             cantidad++;
