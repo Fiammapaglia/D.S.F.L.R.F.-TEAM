@@ -1,0 +1,92 @@
+EJERCICIO 4 — Factores de Balance AVL
+
+Dado un AVL con los valores 30, 20, 40, 10, 25 insertados en ese orden.
+1.Describí la estructura nodo por nodo.
+       30
+    20		40
+ 10	        25
+
+
+2.Indicá el Factor de Balance (bf) de cada nodo: bf=h(izq)−h(der), con h(null)=−1.
+Nodo 10: hoja → h=0, bf=(−1)−(−1)=0
+Nodo 25: hoja → h=0, bf=(−1)−(−1)=0 
+Nodo 40: hoja → h=0, bf=(−1)−(−1)=0
+Nodo 20: h=max(0,0)+1=1, bf=0−0=0
+Nodo 30: h=max(1,0)+1=2, bf=1−0=1
+
+EJERCICIO 5 — Rotación AVL: Caso LL 
+En un AVL que contiene 30 y 20, insertará el valor 10.
+
+1.Identificá el nodo desbalanceado y su bf.
+30 es el nodo desbalanceado, porque cuando calcula su bf (30) = 1 - (-1) el resultado es 2, lo que significa que está desbalanceado(bf > 1).
+
+2.Indicá el tipo de rotación y describe el árbol final rebalanceado.
+Se llama caso LL porque el desbalance ocurrió hacia la izquierda del nodo 30 y nuevamente hacia la izquierda en el nodo 20. 
+Árbol rebalanceado: Rotación Simple Derecha
+     20 
+10      30
+descripción: 
+20 es la nueva raíz 
+10 es el hijo izquierdo de 20
+30 es el  hijo derecho de 20
+
+EJERCICIO 6 — Rotación AVL: Caso LR 
+En un AVL que contiene 30 y 20, insertá el valor 25.
+
+1.Identificá el nodo desbalanceado y su bf.
+	Nodo desbalanceado= 30
+	Bf: 2
+
+2.Detallá los movimientos de la rotación doble y describí el árbol final.
+1:
+	    30
+   /
+ 20
+   \
+   25
+
+2:
+
+	    30
+   /
+ 25
+ /
+20
+
+3:
+
+	      25
+     /  \
+   20    30
+
+Primero arreglamos el (20-25) con rotación izquierda.
+Después balanceamos el árbol completo con rotación derecha.
+
+
+EJERCICIO 7 — TDA Árbol B: Reglas 
+Definí las reglas de un Árbol B de orden 3 (orden = cantidad máxima de hijos).
+
+1.Cantidad máxima de claves por nodo
+3 - 1 = 2
+
+2.Cantidad mínima de claves por nodo no raíz.
+3/2(1,5 pero se redondea a 2) - 1 = 1
+
+
+EJERCICIO 8 — Inserción en Árbol B 
+En un Árbol B de orden 3 vacío, inserta 10, 20, 30.
+
+1.Explica la condición de overflow al insertar el 30.
+Claves del arbol de orden 3 : 3-1= 2 
+Por lo tanto un nodo puede tener como máximo 2 claves.
+Cuando insertamos el 30 quedan 3 claves [10 | 20 | 30], acá se genera overflow porque el nodo supera la cantidad máxima de claves permitidas(2) y debe dividirse.
+
+2.Indicá la clave promocionada y describí la estructura final (Raíz y Hojas).
+  	La clave promocionada es la del medio → 20 
+	Hoja izquierda → 10
+	Hoja derecha → 30
+	
+Estructura final:
+	            	[20|   ]
+	         /            \
+       [10|   ]         [30|   ]
